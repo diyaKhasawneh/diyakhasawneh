@@ -1,5 +1,5 @@
 <div align="center">
-<img src=![](/giphy.gif)>
+<img src=/giphy.gif>
 </div>
 <h1 align="center">Hi 👋, I'm Diya khasawneh</h1>
 <h3 align="center">Junior Front-End developer with ⚛️ ReactJS</h3>
