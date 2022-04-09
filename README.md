@@ -2,12 +2,7 @@
 <img src=/giphy.gif>
 </div>
 <h1 align="center">Hi 👋, I'm Diya khasawneh </h1>
-```diff
-
-! text in orange @
-
-
-```
+<font color="red">This is some text!</font>
 <h3 align="center">Junior Front-End developer with ⚛️ ReactJS</h3>
 
 
