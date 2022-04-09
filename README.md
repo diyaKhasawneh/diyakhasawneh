@@ -1,7 +1,14 @@
 <div align="center">
 <img src=/giphy.gif>
 </div>
-<h1 align="center">Hi 👋, I'm Diya <span style="color: blue; font-size: 46px;" > khasawneh </span></h1>
+<h1 align="center">Hi 👋, I'm Diya khasawneh </h1>
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 <h3 align="center">Junior Front-End developer with ⚛️ ReactJS</h3>
 
 
