@@ -3,11 +3,10 @@
 </div>
 <h1 align="center">Hi 👋, I'm Diya khasawneh </h1>
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+
+! text in orange @
+
+
 ```
 <h3 align="center">Junior Front-End developer with ⚛️ ReactJS</h3>
 
