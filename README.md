@@ -2,10 +2,9 @@
 <img src=/giphy.gif>
 </div>
 <h1 align="center">Hi 👋, I'm Diya khasawneh </h1>
-<font color="red">This is some text!</font>
+
 <h3 align="center">Junior Front-End developer with ⚛️ ReactJS</h3>
-```diff
-- text in red @@````
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
