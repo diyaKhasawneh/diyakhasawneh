@@ -1,4 +1,4 @@
-![](/giphy.gif)
+<div align="center"> al>![](/giphy.gif)</>
 <h1 align="center">Hi 👋, I'm Diya khasawneh</h1>
 <h3 align="center">Junior Front-End developer with ⚛️ ReactJS</h3>
 
